@@ -49,13 +49,13 @@ Support this project by becoming a sponsor.
 #### Current
 
 <a href="#" target="_blank"><img src="https://secure.meetupstatic.com/photos/event/2/6/d/b/600_456849947.jpeg" width="200" height="100" /></a>
-<a href="#" target="_blank"><img src="https://commons.wikimedia.org/wiki/File:DigitalOcean_logo.svg#/media/File:DigitalOcean_logo.svg" width="200" height="100" /></a>
+<a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" width="200" height="100" /></a>
 
 
 ## Licensing
 
 <b>One to One project raised discussion portal.
-  
+
    Copyright (C) <2018 Codeuino Contributors>
 This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License V3 as published by
