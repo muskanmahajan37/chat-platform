@@ -8,10 +8,10 @@
 ---
 ## What is CODO?
 
-One to One project raised discussion portal. This platform is the part of various project researched project integrated with Donut. This project open ups a new wire framework channel.
+One to One project raised discussion portal. This platform is the part of various researched projects integrated with Donut. This project opens up a new wire framework channel.
 
 This has been developed to replace the comment option in order to avoid various long useless threads which are not related to topic
-This software has got its simple and easy interface with good approach. IN taking into consideration of IRC, Slack, Gitter this has been provided with unique approach.
+This software has got its simple and easy interface with good approach. Taking into account applications like IRC, Slack and Gitter, this has been provided with unique approach.
 
 This platform revolves around the real-time application, which functions the way to create a room using a `room code name`, which is needed to be shared with only those candidate those who are required to be present in that room.
 
@@ -28,7 +28,7 @@ How to run the App locally:
 **Commits**
 * Write clear meaningful git commit messages (Do read http://chris.beams.io/posts/git-commit/)
 * Make sure your PR's description contains GitHub's special keyword references that automatically close the related issue when the PR is merged. (More info at https://github.com/blog/1506-closing-issues-via-pull-requests )
-* When you make very very minor changes to a PR of yours (like for example fixing a failing travis build or some small style corrections or minor changes requested by reviewers) make sure you squash your commits afterwards so that you don't have an absurd number of commits for a very small fix. (Learn how to squash at https://davidwalsh.name/squash-commits-git )
+* When you make very minor changes to a PR of yours (like for example fixing a failing travis build or some small style corrections or minor changes requested by reviewers) make sure you squash your commits afterwards so that you don't have an absurd number of commits for a very small fix. (Learn how to squash at https://davidwalsh.name/squash-commits-git )
 * When you're submitting a PR for a UI-related issue, it would be really awesome if you add a screenshot of your change or a link to a deployment where it can be tested out along with your PR. It makes it very easy for the reviewers and you'll also get reviews quicker.
 
 ## Community
