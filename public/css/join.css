@@ -1,0 +1,87 @@
+body {
+  background: #2193b0;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #6dd5ed, #2193b0);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #6dd5ed, #2193b0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+.c-wrapper {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+.c-login__box {
+  background: rgba(255, 255, 255, .4);
+  -webkit-box-shadow: 6px 6px 30px 1px rgba(0,0,0,0.35);
+  -moz-box-shadow: 6px 6px 30px 1px rgba(0,0,0,0.35);
+  box-shadow: 6px 6px 30px 1px rgba(0,0,0,0.35);
+  border-radius: 10px;
+  height: auto;
+  padding: 30px 20px;
+  width: 280px;
+}
+
+.c-login__box h2 {
+  color: #ffffff;
+  font-size: 22px;
+  text-align: left;
+  line-height: 24px;
+  margin: 0 0 20px;
+}
+
+.c-login__box button {
+  -webkit-box-shadow: 3px 3px 20px 1px rgba(0,0,0,0.35);
+  -moz-box-shadow: 3px 3px 20px 1px rgba(0,0,0,0.35);
+  background: white;
+  border-radius: 4px;
+  border: 0;
+  box-shadow: 3px 3px 20px 1px rgba(0,0,0,0.35);
+  cursor: pointer;
+  display: block;
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0 auto 0 auto;
+  padding: 12px 40px;
+  transition: box-shadow 0.2s ease;
+  -webkit-transition: box-shadow 0.2s ease;
+}
+
+.c-login__box button:hover {
+  -webkit-box-shadow: 3px 3px 10px 1px rgba(0,0,0,0.35);
+  -moz-box-shadow: 3px 3px 10px 1px rgba(0,0,0,0.35);
+  box-shadow: 3px 3px 10px 1px rgba(0,0,0,0.35); 
+}
+
+.c-login__input-holder {
+  display: block;
+  margin-bottom: 15px;
+  position: relative;
+}
+
+.c-login__input-holder label {
+  color: #000000;
+  font-size: 14px;
+  font-style: italic;
+  font-weight: lighter;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  left: 10px;
+}
+
+.c-login__input-holder input {
+  background: #ffffff;
+  border-radius: 5px;
+  border: 0;
+  box-sizing: border-box;
+  display: block;
+  font-size: 16px;
+  height: 56px;
+  padding: 24px 10px 6px;
+  width: 100%;
+}
