@@ -24,6 +24,11 @@ If anyone joins a room then he cannot view the conversation which happened befor
 How to run the App locally:
 * Clone it locally on your computer using `git clone https://github.com/codeuino/chat-platform.git`
 * Install NodeJs
+* Open terminal and type below command to install dependencies:
+  npm i
+* To run the application:
+  npm run start
+    
 
 **Commits**
 * Write clear meaningful git commit messages (Do read http://chris.beams.io/posts/git-commit/)
