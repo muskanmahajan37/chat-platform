@@ -1,6 +1,6 @@
 # CODO - A DISCUSSION PORTAL
 
-[![Slack Status](https://img.shields.io/badge/slack-chat-yellow.svg)](https://codeuino.slack.com)    [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Slack Status](https://img.shields.io/badge/slack-chat-yellow.svg?logo=slack&style=flat-square)](https://codeuino.slack.com) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square&logo=github)](http://makeapullrequest.com)
 
 ![codeuino](READMEassets/codeuino.png)
 
@@ -23,28 +23,30 @@ If anyone joins a room then he cannot view the conversation which happened befor
 
 How to run the App locally:
 * Clone it locally on your computer using `git clone https://github.com/codeuino/chat-platform.git`
-* Install NodeJs
-* Open terminal and type below command to install dependencies:
-  npm i
-* To run the application:
-  npm run start
+* Install **Node.js** from [here](https://nodejs.org/en/)
+* Open terminal and type below command:
+  - To install dependencies: `npm i`
+  - To run the application: `npm run start`
     
 
 **Commits**
-* Write clear meaningful git commit messages (Do read http://chris.beams.io/posts/git-commit/)
-* Make sure your PR's description contains GitHub's special keyword references that automatically close the related issue when the PR is merged. (More info at https://github.com/blog/1506-closing-issues-via-pull-requests )
-* When you make very minor changes to a PR of yours (like for example fixing a failing travis build or some small style corrections or minor changes requested by reviewers) make sure you squash your commits afterwards so that you don't have an absurd number of commits for a very small fix. (Learn how to squash at https://davidwalsh.name/squash-commits-git )
+* Write clear meaningful git commit messages (Do read [this](http://chris.beams.io/posts/git-commit/))
+* Make sure your PR's description contains GitHub's special keyword references that automatically close the related issue when the PR is merged. (Check [this](https://github.com/blog/1506-closing-issues-via-pull-requests) for more info)
+* When you make very minor changes to a PR of yours (like for example fixing a failing travis build or some small style corrections or minor changes requested by reviewers) make sure you squash your commits afterwards so that you don't have an absurd number of commits for a very small fix. (Learn how to squash at [here](https://davidwalsh.name/squash-commits-git))
 * When you're submitting a PR for a UI-related issue, it would be really awesome if you add a screenshot of your change or a link to a deployment where it can be tested out along with your PR. It makes it very easy for the reviewers and you'll also get reviews quicker.
 
 ## Community
 
+[![GitHub issues](https://img.shields.io/github/issues/codeuino/chat-platform?logo=github&style=social)](https://github.com/codeuino/chat-platform/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/codeuino/chat-platform?logo=git&style=social)](https://github.com/codeuino/chat-platform/pulls) [![GitHub forks](https://img.shields.io/github/forks/codeuino/chat-platform?style=social)](https://github.com/codeuino/chat-platform/network) [![GitHub stars](https://img.shields.io/github/stars/codeuino/chat-platform?style=social)](https://github.com/codeuino/chat-platform/stargazers)
+
 All feedback and suggestions are welcome!
 
-* 💬 Join the community on [Slack](https://join.slack.com/t/codeuino/shared_invite/enQtMzcxOTQwNzE4NzcxLWEyNzUxYjI0ZThiNWUyYWI5MzJlMTNmODMxN2NjMTcxODJkZmFhNTVkYmUyOTQ1YzgzNTlmMTVkYzVhMzdmNTQ )
-* 📣 Stay up to date on new features and announcements on the following
-1.[@Mailing List](codeuino-devel@googlegroups.com).
-1.[@Discussion Portal](https://groups.google.com/d/forum/codeuino-devel).
-1.[@Codeuino Wiki](wiki.codeuino.org).
+* 💬 Join the community on [Slack](https://join.slack.com/t/codeuino/shared_invite/enQtMzcxOTQwNzE4NzcxLWEyNzUxYjI0ZThiNWUyYWI5MzJlMTNmODMxN2NjMTcxODJkZmFhNTVkYmUyOTQ1YzgzNTlmMTVkYzVhMzdmNTQ).
+* 📣 Stay up to date on new features and announcements on the following:
+
+  - [@Mailing List](codeuino-devel@googlegroups.com)
+  - [@Discussion Portal](https://groups.google.com/d/forum/codeuino-devel)
+  - [@Codeuino Wiki](wiki.codeuino.org)
 
 ## Sponsors/Partners
 
@@ -58,6 +60,8 @@ Support this project by becoming a sponsor.
 
 
 ## Licensing
+
+[![GitHub license](https://img.shields.io/github/license/codeuino/chat-platform?logo=github&style=flat-square)](https://github.com/codeuino/chat-platform/blob/master/LICENSE)
 
 <b>One to One project raised discussion portal.
 
@@ -73,4 +77,4 @@ This program is distributed in the hope that it will be useful,
     GNU General Public License for more details at OSI <https://opensource.org/licenses/GPL-3.0>
 
 You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+    along with this program.  If not, see [this](http://www.gnu.org/licenses/>).
