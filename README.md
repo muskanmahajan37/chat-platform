@@ -80,3 +80,5 @@ This program is distributed in the hope that it will be useful,
 
 You should have received a copy of the GNU General Public License
     along with this program.  If not, see [this](http://www.gnu.org/licenses/>).
+    
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/codeuino/chat-platform)
