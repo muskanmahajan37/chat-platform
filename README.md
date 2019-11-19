@@ -21,6 +21,8 @@ If anyone joins a room then he cannot view the conversation which happened befor
 
 ## Installation
 
+[![NODE JS](http://img.shields.io/badge/Node-JS-teal.svg?style=for-the-badge&logo=node.js)](https://nodejs.org/en/)
+
 How to run the App locally:
 * Clone it locally on your computer using `git clone https://github.com/codeuino/chat-platform.git`
 * Install **Node.js** from [here](https://nodejs.org/en/)
